@@ -1,3 +1,6 @@
+# Don't need .terraform.lock.hcl included since this is an example project
+.terraform.lock.hcl
+
 # Local .terraform directories
 **/.terraform/*
 
